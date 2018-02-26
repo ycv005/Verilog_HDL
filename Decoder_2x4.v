@@ -1,22 +1,10 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    21:32:15 02/26/2018 
-// Design Name: 
-// Module Name:    Decoder_2x4 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
+// By: Yash Chandra Verma
 //
-// Dependencies: 
+// Module Name:    Decoder 2x4
 //
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
+// Description: A Decoder 2x4 Circuit
 //////////////////////////////////////////////////////////////////////////////////
 module Decoder_2x4(a, select, b
     );
